@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1>Todo App - Ghi Chú Công Việc - ReactJS - Recoil - Version 2.0</h1>
+  <h1>Todo App - Ghi Chú - ReactJS - Recoil - Version 2.0</h1>
 </div>
 
 - **ReactJS**
