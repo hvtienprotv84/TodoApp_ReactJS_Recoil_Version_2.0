@@ -10,7 +10,7 @@
 - **ReactJS**
 - **React-Router-DOM**
 - **Recoil**
-- **Recoil-Persist** Lưu giá trị trạng thái trong `Local Storage` bằng cách sử dụng `Recoil-Persist`
+- **Recoil-Persist** **Lưu giá trị trạng thái trong `Local Storage` bằng cách sử dụng `Recoil-Persist`**
 - **Styled-Components**
 - **Dark Mode / Light Mode**
 - **Responsive Website và Mobile**
