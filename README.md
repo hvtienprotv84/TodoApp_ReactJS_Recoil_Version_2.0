@@ -4,13 +4,13 @@
 </div>
 
 <div align="center">
-  <h1>Todo App - Ghi Chú Công Việc - ReactJS - Recoil - Version 2.0</h1>
+  <h1>Todo App - Ghi Chú - ReactJS - Recoil - Version 2.0</h1>
 </div>
 
 - **ReactJS**
 - **React-Router-DOM**
 - **Recoil**
-- **Recoil-Persist** Lưu giá trị trạng thái trong **Local Storage** bằng cách sử dụng `Recoil-Persist`
+- **Recoil-Persist** Lưu giá trị trạng thái trong `Local Storage` bằng cách sử dụng `Recoil-Persist`
 - **Styled-Components**
 - **Dark Mode / Light Mode**
 - **Responsive Website và Mobile**
